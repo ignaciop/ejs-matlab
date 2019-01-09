@@ -1,0 +1,14 @@
+clear all
+syms y(t);
+
+s = dsolve(t*diff(y) + 2*y == exp(t), y(1) == 1)
+
+yy = (exp(t)*(t-1) + 1) / t^2
+dyy = diff(yy)
+
+a = t*diff(yy) + 2*yy
+b = t*diff(s) + 2*s
+
+if a==b
+    'yes'
+end
