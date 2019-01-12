@@ -24,4 +24,4 @@ end
 axis tight
 grid on
 title 'Solutions of t*Dy + 2*y == exp(t) with y(1) == -3,..,3'
-hold off
+hold off                                                                    
