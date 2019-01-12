@@ -1,8 +1,0 @@
-clear all
-syms y(t);
-
-s = dsolve('Dy - 2*y == sin(2*t)','y(0) == c', 't')
-
-figure(1)
-hold on
-for cval = -0
