@@ -19,4 +19,5 @@ for R = 0:0.5:2
     grid on
 end
 
+legend('R = 0', 'R = 0.5', 'R = 1', 'R = 1.5', 'R = 2')
 hold off
