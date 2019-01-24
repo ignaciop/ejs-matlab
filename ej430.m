@@ -1,0 +1,1 @@
+s = dsolve('D3y + 3*D2y - 2*Dy + y = 0')
