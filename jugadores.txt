@@ -1,0 +1,10 @@
+Maradona,Boca,10,20
+Batistuta,Boca,9,56
+Gallardo,River,7,25
+Flores,Velez,6,15
+Chilavert,Velez,1,7
+Ruggeri,SanLorenzo,6,20
+Meza,Independiente,9,10
+Rojo,River,8,12
+Messi,Barcelona,10,38
+Ronaldo,RealMadrid,7,5
