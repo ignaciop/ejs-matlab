@@ -1,1 +1,0 @@
-s = solve('y^4 + 3*y^3 = x + exp(x)')

@@ -1,1 +1,0 @@
-s = dsolve('D2y - Dy = cosh(x)', 'y(0) = 2', 'Dy(0) = 12')
